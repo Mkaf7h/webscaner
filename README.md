@@ -4,11 +4,8 @@
 
 ## Preview
 
-![Login](https://imgur.com/MyhxKXA)
-
-[More Screenshots](https://imgur.com/undefined)
-
----
+![Login](https://i.imgur.com/MyhxKXA.png)
+![Dashboard](https://i.imgur.com/xMb2XW9.png)
 
 ## Default Credentials
 
